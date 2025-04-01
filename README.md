@@ -2,7 +2,7 @@
 
 **Welcome to my GitHub profile!**  
 
-I'm a **computer engineering student** based in **Barcelona**, passionate about **web development, app development, and machine learning**. I love building digital solutions and constantly learning to improve my skills. I'm also deeply interested in **space exploration** and **Formula 1**, always excited about the intersection of technology and performance!  
+I'm a **computer engineering student** based in **Barcelona**, passionate about **web development, app development, and machine learning** currently studying in UOC. I love building digital solutions and constantly learning to improve my skills. I'm also deeply interested in **space exploration** and **Formula 1**, always excited about the intersection of technology and performance!  
 
 ## 🚀 About Me  
 - 🎓 **Education:** 1st-year **Computer Engineering student** at **UOC**.  
